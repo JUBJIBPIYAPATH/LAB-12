@@ -27,6 +27,7 @@ Project นี้จะโหลดภาพจากไฟล์ (ชนิด�
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-12/blob/master/imgs/lab12-2.png">
 </p> 
 
+![](https://github.com/JUBJIBPIYAPATH/LAB-12/blob/master/img/02.PNG?raw=true)
 
 ### การ Zoom in  
 คือการกำหนดให้ Rectangle ปลายทาง โตกว่า Rectangle ของภาพ ในที่นี้จะเลือกภาพมาแสดง
